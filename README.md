@@ -48,4 +48,3 @@ Nasabah paling potensial untuk ditargetkan oleh *Relationship Manager* memiliki 
 4. **Efisiensi Targeting:** Hindari penawaran investasi jangka panjang pada nasabah dengan beban *housing loan* aktif.
 
 ---
-*Dibuat berdasarkan Pre-Challenge 2b - Data Science Track* [cite: 1]
